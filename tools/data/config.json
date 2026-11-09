@@ -1,10 +1,10 @@
 {
  "research_dir": "Rodilitz-Zaslow Research",
- "master_text": "Rodilitz-Zaslow Research/PDF build/Rodilitz_Zaslow_Family_History_v2_text.md",
- "pdf_source": "Rodilitz-Zaslow Research/PDF build/Rodilitz_Zaslow_Family_History_v2.pdf",
+ "master_text": "Rodilitz-Zaslow Research/PDF build/Rodilitz_Zaslow_Family_History_v3_text.md",
+ "pdf_source": "Rodilitz-Zaslow Research/PDF build/Rodilitz_Zaslow_Family_History_v3.pdf",
  "pdf_download": "Rodilitz_Zaslow_Family_History.pdf",
  "image_dir": "Rodilitz-Zaslow Research/PDF build/img",
- "edition": "Second edition · October 2026",
+ "edition": "Third edition · November 2026",
  "allow_crawlers": false,
  "cname": "rodilitz.dckoiks.com",
  "base_path": "/Rodilitz/",
@@ -222,7 +222,7 @@
    "RQ-06",
    "Which towns in Europe did each line come from?",
    "Partly answered",
-   "Rodilitz: Kovel (Jacob’s birthplace), probably Maciejów, then Czerniany, Kobrin, Brest and Divin. Hausman: Grodno province, probably Brest. Zaslow: Obodovka in Podolia. Saslow: probably Tulchin; new research finds a probable father registered in Soroki, Bessarabia, living in Tulchin in 1875.",
+   "Rodilitz: Kovel (Jacob’s birthplace), probably Maciejów, then Czerniany, Kobrin, Brest and Divin. Hausman: Grodno province, probably Brest. Zaslow: Obodovka in Podolia. Saslow: Tulchin by 1875, registered in Soroki, Bessarabia, and probably earlier at the Dombroveny colony near Soroki.",
    [
     "R-020",
     "H-021",
@@ -326,44 +326,6 @@
  ],
  "since_edition": [
   [
-   "The Saslows’ probable father, in Tulchin in 1875",
-   "The 1875 Jewish census of Podolia, now free online, lists among the Jews from other towns living in Tulchin **Duvid Berkovich Zaslava**, 46, registered in the town of Soroki in Bessarabia (now Soroca, Moldova), with his sons **Berko**, 12, and **Avrum**, 3. Berko fits Benjamin Saslow (Dov, son of David, born about 1865), and Avrum fits the Avrum Zaslav, son of Duvid, who died in Tulchin in 1880 aged seven. The census lists males only, so wives and daughters are not shown. Probable, about 65–75%.",
-   [
-    "Z-040",
-    "Z-020",
-    "Z-068"
-   ],
-   [
-    "RZ-S102",
-    "RZ-S88"
-   ]
-  ],
-  [
-   "A Zaslaver daughter marries in Tulchin, 1888",
-   "On 10 August 1888 **Bluma**, 22, daughter of Duvid Zaslaver, married Itsko Yankelevich Vaisman (Weissman), a Tulchin townsman. She may have been Benjamin Saslow’s sister. Tulchin’s marriages for 1887–1890 do not include Benjamin and Bessie’s own wedding; the 1886 book is missing from the scans.",
-   [
-    "Z-066"
-   ],
-   [
-    "RZ-S99",
-    "RZ-S100"
-   ]
-  ],
-  [
-   "Obodovka’s own records",
-   "Obodovka’s Jewish registers for 1845, 1851 and 1852, its 1875 census lists, its 1918 marriages and the 1918 voter list of its Jewish community have all been read. None has a Zaslav or a Lesnoy. The family was probably not registered there in 1875 and probably settled there between 1875 and 1885, when Itzik and Benjamin were born.",
-   [
-    "Z-005",
-    "Z-006",
-    "Z-010"
-   ],
-   [
-    "RZ-S97",
-    "RZ-S98",
-    "RZ-S102"
-   ]
-  ],
-  [
    "Kovel in 1858",
    "The Kovel district revision lists of 1858 have been located. The volume on Wikimedia Commons lists peasants only; the volumes likely to include Kovel’s Jews, and so perhaps a young Yonah Rodilitz, are on FamilySearch and are next to be searched.",
    [
@@ -376,6 +338,10 @@
   ]
  ],
  "site_changes": [
+  [
+   "9 November 2026 (evening)",
+   "Rebuilt from the third edition of the history: the Saslows in Tulchin in 1875, Soroki and Dombroveny, Bluma’s marriage, and Obodovka’s records. Soroki added to the maps."
+  ],
   [
    "9 November 2026",
    "First version of the site, built from the second edition of the history, with the research to 1 November 2026."
