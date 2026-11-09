@@ -845,7 +845,7 @@ def build_home():
                 ("tree/index.html", "tree", "Family tree", "Move through the generations of all four families."),
                 ("research/index.html", "question", "Research", "New findings since the printed edition, and the questions still open."),
                 ("people/index.html", "person", "People", f"A page for each of the {len(PEOPLE)} people in the research."),
-                (f"downloads/{PDF_NAME}", "download", "The PDF edition", f"The family history as a printable book ({EDITION_PHRASE}).")]
+                (f"downloads/{PDF_NAME}", "download", "The PDF edition", f"The family history as a printable book: the {EDITION_PHRASE}.")]
     ev = "".join(f'<a class="item" href="{{R}}{u}">{icon(ic)}<span><span class="t">{H(t)}</span><span class="s">{H(s)}</span></span></a>' for u, ic, t, s in evidence)
     body = (f'<section class="hero">{roundel()}<div class="hero-text"><p class="eyebrow">{H(kick)}</p>'
             f'<h1>The <span class="rw">Rodilitz</span> and <span class="zw">Zaslow</span> Families</h1>'
