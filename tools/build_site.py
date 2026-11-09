@@ -643,7 +643,7 @@ def build_records():
             ppl = people_for_source(c)
             who = (' <span class="acc">· ' + ", ".join(plink(i, show_dates=False) for i in ppl) + "</span>") if ppl else ""
             imgm = f' <a class="acc" href="{{R}}records/{c.lower()}.html">· image</a>' if c in REC_IMAGES else ""
-            rows.append(f'<div class="srcrow" id="{c}" data-q="{H(strip_tags(s["desc"]) + " " + c)}"><span class="code">{c}</span>'
+            rows.append(f'<div class="srcrow" id="{c}" data-q="{H(scrub(strip_tags(s["desc"])) + " " + c)}"><span class="code">{c}</span>'
                         f'<div><div class="d">{src_desc_html(s)}{imgm}</div>'
                         + (f'<div class="acc">{link_h}</div>' if link_h else "") + f'{who}</div></div>')
         secs.append(f'<section class="pgroup sh" data-group="1"><h2>{H(SRC_TITLES.get(sec, sec))}</h2>{"".join(rows)}</section>')
@@ -939,7 +939,7 @@ def check_site():
                 if f'id="{frag}"' not in tt and frag not in PEOPLE:
                     error(f"{path}: missing fragment {href}")
         for bad in ("RZ-T", "Barnst", "Claude", "coordinator", "Finkelstein", "dorisarchive", "16 Feb 1956"):
-            if bad in strip_tags(t):
+            if bad in t:
                 error(f"{path}: internal or private text left in page: {bad}")
 
 
