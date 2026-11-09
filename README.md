@@ -56,7 +56,7 @@ python3 -m http.server 8000      # then open http://localhost:8000
 ## Publishing
 
 GitHub Pages: **Settings › Pages › Build and deployment › Deploy from a branch**, branch `main`, folder `/docs`. The
-site is then at `https://barnst1865.github.io/Rodilitz/`. For a custom domain, put it in `config.json` as `"cname"`,
+site is at https://rodilitz.dckoiks.com/ (set as `"cname"` in `config.json`; the build writes `docs/CNAME`). To change the custom domain, put it in `config.json` as `"cname"`,
 rebuild, push, and enter the same domain under **Settings › Pages › Custom domain**, with a `CNAME` DNS record pointing
 to `barnst1865.github.io`.
 
