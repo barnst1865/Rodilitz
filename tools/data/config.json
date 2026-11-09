@@ -1,0 +1,388 @@
+{
+ "research_dir": "Rodilitz-Zaslow Research",
+ "master_text": "Rodilitz-Zaslow Research/PDF build/Rodilitz_Zaslow_Family_History_v2_text.md",
+ "pdf_source": "Rodilitz-Zaslow Research/PDF build/Rodilitz_Zaslow_Family_History_v2.pdf",
+ "pdf_download": "Rodilitz_Zaslow_Family_History.pdf",
+ "image_dir": "Rodilitz-Zaslow Research/PDF build/img",
+ "edition": "Second edition · October 2026",
+ "allow_crawlers": false,
+ "cname": "",
+ "base_path": "/Rodilitz/",
+ "editor": "the Koik family",
+ "site_updated": "9 November 2026",
+ "corrections_url": "https://github.com/barnst1865/Rodilitz/issues",
+ "site_description": "The families of Theodore Rodilitz and Doris Zaslow, from Grodno, Volhynia and Podolia to Brooklyn and Philadelphia: a family history with records, a family tree and maps.",
+ "privacy_birth_year": 1930,
+ "tree_roots": [
+  "R-032",
+  "R-030",
+  "H-020",
+  "Z-060",
+  "Z-007",
+  "Z-040",
+  "Z-031"
+ ],
+ "chapter_summaries": {
+  "overview": "Theodore and Doris, their parents and grandparents, and the four families behind them.",
+  "world": "The Pale of Settlement, the home towns, why the families left and how they travelled.",
+  "rodilitz": "Jacob, a Hebrew teacher from Kovel, Mary from Divin, and their eight children, who crossed one at a time, 1907–1913.",
+  "morris": "Theodore’s parents in East New York, and Sylvia’s mother, who came by way of Havana in 1925.",
+  "saslow": "Benjamin and Bessie Saslow, from Podolia to South Philadelphia, 1892–1893.",
+  "zaslow": "Benjamin Zaslow, born at Obodovka, and his parents and brothers in Brooklyn.",
+  "together": "Brooklyn, 1948, and California.",
+  "chronology": "The family’s dates in one list, 1855–2007.",
+  "stayed": "The First World War, the interwar years and the Holocaust in the home towns.",
+  "places": "The towns, streets and cemeteries connected with the families.",
+  "details": "Short family summaries and the Hebrew inscriptions on the gravestones.",
+  "questions": "The records still to get, and the questions still open.",
+  "sources": "Archives, record collections, published works and the notes to every chapter."
+ },
+ "bold_links": {
+  "rodilitz": {
+   "Jacob Rodilitz": "R-020",
+   "Mary": "R-021",
+   "Jacob’s father was Yonah": "R-032",
+   "Abraham Jonas Rodolitz": "R-049",
+   "Moische Wolf Prozanski": "R-035",
+   "Morris William Rosen": "R-035"
+  },
+  "morris": {
+   "Morris Rodilitz": "R-010",
+   "Sivia (Sylvia) Hausman": "H-010",
+   "Millie (Mildred)": "R-011",
+   "Theodore": "R-001",
+   "Blanche": "R-012",
+   "Rose (Reise, Rejza) Hausman": "H-021",
+   "Fega": "H-011",
+   "G. Weisberg": "H-012",
+   "Joseph Hausman": "H-020"
+  },
+  "saslow": {
+   "Benjamin Saslow": "Z-020",
+   "Bessie": "Z-021",
+   "Basche Zaslaw": "Z-021",
+   "Jety": "Z-012",
+   "Beile": "Z-011",
+   "Leib Zaslaw": "Z-022",
+   "Beckie": "Z-012",
+   "Catherine": "Z-011",
+   "Louis": "Z-013",
+   "Herman": "Z-014",
+   "Mollie": "Z-015",
+   "Avrum Zaslav, son of Duvid": "Z-068"
+  },
+  "zaslow": {
+   "Benjamin Zaslow": "Z-010",
+   "Itzik": "Z-016",
+   "Berl": "Z-010",
+   "David": "Z-019",
+   "Jacob Zaslow": "Z-005",
+   "Miriam (Marjem, Mary) née Lesnoff": "Z-006",
+   "Harry Lesnoff": "Z-062",
+   "Ike Zaslow": "Z-016",
+   "Herman": "Z-017",
+   "Catherine (Katie) Saslow": "Z-011",
+   "Sylvia": "Z-002",
+   "Edward": "Z-003",
+   "Mildred": "Z-004",
+   "Doris": "Z-001",
+   "David Zaslow": "Z-060",
+   "Katia Goldberg": "Z-061"
+  }
+ },
+ "text_overrides": [
+  [
+   "Their daughter **Sylvia** married **Victor E. Koik** in Los Angeles on 15 January 1978.",
+   "Their daughter **Sylvia** married **Victor E. Koik**."
+  ]
+ ],
+ "record_images": {
+  "RZ-S01": [
+   "marriage_1915",
+   "The 1915 marriage certificate of Morris Rodilitz and Sivia Hausman."
+  ],
+  "RZ-S02": [
+   "mary_death_1934",
+   "Mary Rodilitz’s death certificate, Brooklyn, 1934."
+  ],
+  "RZ-S06": [
+   "circassia_1893",
+   "The Circassia passenger list, Ellis Island, 3 July 1893, with Basche, Jety and Beile Zaslaw."
+  ],
+  "RZ-S07": [
+   "draft_card_1940",
+   "Theodore Rodilitz’s draft registration card, Brooklyn, 1940."
+  ],
+  "RZ-S82": [
+   "jack_zaslow_1930",
+   "Jack Zaslow’s death certificate, Brooklyn, 1930."
+  ],
+  "RZ-S95": [
+   "licence_1948",
+   "The 1948 marriage licence affidavit of Theodore Rodilitz and Doris Zaslow (upper part)."
+  ]
+ },
+ "home_r": "Jacob Rodilitz, a Hebrew teacher born at Kovel, and Mary Prozansky of Divin brought eight children from the Kobrin district to East New York, Brooklyn, between 1907 and 1913. Their eldest son, Morris, married Sylvia Hausman, whose widowed mother came by way of Havana in 1925.",
+ "home_z": "Benjamin Saslow, a paperhanger, came from Podolia to South Philadelphia in 1892, and his wife and two small daughters followed in 1893. Benjamin Zaslow, born at Obodovka, came in 1904 and married their daughter Catherine; his parents followed to Brooklyn in 1906.",
+ "home_fams": {
+  "r": [
+   [
+    "The Rodilitzes",
+    "Kovel, Kobrin and Divin; Brooklyn from 1907.",
+    "rodilitz"
+   ],
+   [
+    "The Hausmans",
+    "Grodno province, probably Brest; Brooklyn by 1915, Havana 1925.",
+    "morris"
+   ]
+  ],
+  "z": [
+   [
+    "The Saslows",
+    "Podolia, probably Tulchin; Philadelphia from 1892.",
+    "saslow"
+   ],
+   [
+    "The Zaslows",
+    "Obodovka; Philadelphia and Brooklyn from 1904.",
+    "zaslow"
+   ]
+  ]
+ },
+ "new_to_family": "This history follows four Jewish families from the western edge of the Russian Empire to America. <b>Theodore Rodilitz</b>, born in Brooklyn in 1919, was the grandson of a Hebrew teacher from Kovel whose family left the Kobrin district of Grodno province between 1907 and 1913. <b>Doris Zaslow</b>, born in Philadelphia in 1926, had grandparents from Podolia, in what is now Ukraine, who came in 1892–93 and 1904–06. They married in Brooklyn in 1948 and later made their home in California.",
+ "zaslow_saslow_note": "<b>Zaslow and Saslow.</b> Doris’s father was Benjamin <a class=\"pn z\" href=\"{R}people/z-010.html\">Zaslow</a> and her mother Catherine <a class=\"pn z\" href=\"{R}people/z-011.html\">Saslow</a>, daughter of another Benjamin, <a class=\"pn z\" href=\"{R}people/z-020.html\">Benjamin Saslow</a>. They are two different families.",
+ "research_intro": "The research behind the history is still going on. Each question below has an ID (RQ-01 and so on) used in the research files. A question is **answered** when the record is in hand; **partly answered** when some of it is; **open** when the right source has not yet been found or searched.\n\nMost of the American evidence comes from New York City’s Municipal Archives, the US National Archives (passenger lists, censuses, naturalization papers and draft cards), FamilySearch and Ancestry. In Europe, the records of Kobrin, Divin and Kovel have not been indexed and are still in the archives in Belarus and Ukraine; some Podolian records are now free online.",
+ "questions": [
+  [
+   "RQ-01",
+   "When and how did Morris Rodilitz arrive?",
+   "Answered",
+   "He landed at Ellis Island from the Breslau, from Bremen, on 16 December 1907, aged 18, from Czerniany. His certificate of arrival, filed with his naturalization papers, confirms it.",
+   [
+    "R-010"
+   ],
+   [
+    "RZ-S36",
+    "RZ-S84"
+   ]
+  ],
+  [
+   "RQ-02",
+   "When and how did Sylvia Hausman arrive?",
+   "Open",
+   "She gave 1910 as her year of arrival. Her crossing has not been found under many spellings; she may have travelled under another name, or by way of Cuba like her mother.",
+   [
+    "H-010"
+   ],
+   []
+  ],
+  [
+   "RQ-03",
+   "When and how did Jacob and Mary Rodilitz arrive?",
+   "Answered",
+   "Jacob swore he arrived on 9 May 1907 on the Ryndam from Rotterdam; the Holland-America register and a probable passenger-list line agree (about 70% for the line). Mary and the four youngest landed from the Pretoria on 22 December 1913.",
+   [
+    "R-020",
+    "R-021"
+   ],
+   [
+    "RZ-S73"
+   ]
+  ],
+  [
+   "RQ-04",
+   "Who was Benjamin Zaslow, and how did he come?",
+   "Partly answered",
+   "The Beni Zaslowsky of the Friesland (January 1904) was probably a different man. Benjamin was probably the “Berl Saslawer” of the Haverford, Liverpool to Philadelphia, March 1904, with his brothers Itzik and David (about 80–85%). His 1910 marriage licence, which names his parents, would settle it.",
+   [
+    "Z-010"
+   ],
+   [
+    "RZ-S25",
+    "RZ-S52"
+   ]
+  ],
+  [
+   "RQ-05",
+   "Is the Zaslaw family of the Circassia, 1893, Catherine’s family?",
+   "Answered",
+   "Yes, about 90%: Basche, Jety and Beile match Bessie, Beckie and Catherine, including the Hebrew names on their gravestones. The Leib travelling with them was probably a relative, not Catherine’s father.",
+   [
+    "Z-021",
+    "Z-011",
+    "Z-022"
+   ],
+   [
+    "RZ-S06",
+    "RZ-S32"
+   ]
+  ],
+  [
+   "RQ-06",
+   "Which towns in Europe did each line come from?",
+   "Partly answered",
+   "Rodilitz: Kovel (Jacob’s birthplace), probably Maciejów, then Czerniany, Kobrin, Brest and Divin. Hausman: Grodno province, probably Brest. Zaslow: Obodovka in Podolia. Saslow: probably Tulchin; new research finds a probable father registered in Soroki, Bessarabia, living in Tulchin in 1875.",
+   [
+    "R-020",
+    "H-021",
+    "Z-010",
+    "Z-020"
+   ],
+   [
+    "RZ-S102"
+   ]
+  ],
+  [
+   "RQ-07",
+   "Did Sylvia’s parents come to America?",
+   "Partly answered",
+   "Her mother, Rose, very probably came from Havana in 1925 and died in the Bronx in 1932. Her father, Joseph, had died before 1925.",
+   [
+    "H-021",
+    "H-020"
+   ],
+   [
+    "RZ-S60",
+    "RZ-S12"
+   ]
+  ],
+  [
+   "RQ-08",
+   "Who were Morris’s brothers and sisters?",
+   "Answered",
+   "Harry, Meyer, Benny, Ida, Esther, Louis and Sarah, named with their birth dates in their father’s 1927 petition; six of their marriages have been found.",
+   [
+    "R-041",
+    "R-042",
+    "R-048",
+    "R-043",
+    "R-044",
+    "R-045",
+    "R-046"
+   ],
+   [
+    "RZ-S38"
+   ]
+  ],
+  [
+   "RQ-09",
+   "When did Molly Gold and the Weiss family come?",
+   "Open",
+   "Bessie’s death certificate names her parents, Harry (Aharon) Weiss and Molly Gold. Their arrival, if they came, has not been traced.",
+   [
+    "Z-030",
+    "Z-031"
+   ],
+   [
+    "RZ-S44"
+   ]
+  ],
+  [
+   "RQ-10",
+   "What were the home towns like, and what records survive there?",
+   "Partly answered",
+   "The towns are described in Part one. Tulchin’s Jewish registers (1861–1906), a few early Obodovka registers and the 1875 Podolia census are free online. The Jewish records of Kobrin, Divin, Kovel and Brest are not online and are held in Belarus and Ukraine.",
+   [],
+   [
+    "RZ-S96",
+    "RZ-S97",
+    "RZ-S102"
+   ]
+  ],
+  [
+   "RQ-11",
+   "Who were the earlier generations in Europe?",
+   "Partly answered",
+   "Known so far: Yonah Rodilitz; Abraham and Ida Prozansky; Joseph Hausman and Rose Shapiro; David Zaslow and Katia Goldberg; Herman and Rose Lesnoff; Harry (Aharon) Weiss and Molly Gold; and David Saslow, probably Duvid son of Berko.",
+   [
+    "R-032",
+    "R-030",
+    "Z-060",
+    "Z-040"
+   ],
+   [
+    "RZ-S91",
+    "RZ-S82",
+    "RZ-S102"
+   ]
+  ],
+  [
+   "RQ-12",
+   "Why did they leave when they did, and how did they travel?",
+   "Partly answered",
+   "No record gives any of them a reason. Part one sets their departures against the history of the time; every main route was used: Bremen, Hamburg, Rotterdam, Antwerp, Glasgow, Liverpool and Havana.",
+   [],
+   []
+  ],
+  [
+   "RQ-13",
+   "What happened to the relatives and towns left behind?",
+   "Partly answered",
+   "Appendix B gives the history of the towns from 1914 to 1945. No individual relative who stayed has yet been traced.",
+   [],
+   []
+  ]
+ ],
+ "since_edition": [
+  [
+   "The Saslows’ probable father, in Tulchin in 1875",
+   "The 1875 Jewish census of Podolia, now free online, lists among the Jews from other towns living in Tulchin **Duvid Berkovich Zaslava**, 46, registered in the town of Soroki in Bessarabia (now Soroca, Moldova), with his sons **Berko**, 12, and **Avrum**, 3. Berko fits Benjamin Saslow (Dov, son of David, born about 1865), and Avrum fits the Avrum Zaslav, son of Duvid, who died in Tulchin in 1880 aged seven. The census lists males only, so wives and daughters are not shown. Probable, about 65–75%.",
+   [
+    "Z-040",
+    "Z-020",
+    "Z-068"
+   ],
+   [
+    "RZ-S102",
+    "RZ-S88"
+   ]
+  ],
+  [
+   "A Zaslaver daughter marries in Tulchin, 1888",
+   "On 10 August 1888 **Bluma**, 22, daughter of Duvid Zaslaver, married Itsko Yankelevich Vaisman (Weissman), a Tulchin townsman. She may have been Benjamin Saslow’s sister. Tulchin’s marriages for 1887–1890 do not include Benjamin and Bessie’s own wedding; the 1886 book is missing from the scans.",
+   [
+    "Z-066"
+   ],
+   [
+    "RZ-S99",
+    "RZ-S100"
+   ]
+  ],
+  [
+   "Obodovka’s own records",
+   "Obodovka’s Jewish registers for 1845, 1851 and 1852, its 1875 census lists, its 1918 marriages and the 1918 voter list of its Jewish community have all been read. None has a Zaslav or a Lesnoy. The family was probably not registered there in 1875 and probably settled there between 1875 and 1885, when Itzik and Benjamin were born.",
+   [
+    "Z-005",
+    "Z-006",
+    "Z-010"
+   ],
+   [
+    "RZ-S97",
+    "RZ-S98",
+    "RZ-S102"
+   ]
+  ],
+  [
+   "Kovel in 1858",
+   "The Kovel district revision lists of 1858 have been located. The volume on Wikimedia Commons lists peasants only; the volumes likely to include Kovel’s Jews, and so perhaps a young Yonah Rodilitz, are on FamilySearch and are next to be searched.",
+   [
+    "R-032",
+    "R-020"
+   ],
+   [
+    "RZ-S101"
+   ]
+  ]
+ ],
+ "site_changes": [
+  [
+   "9 November 2026",
+   "First version of the site, built from the second edition of the history, with the research to 1 November 2026."
+  ]
+ ],
+ "about_md": "This site gathers the family history of the **Rodilitz**, **Hausman**, **Saslow** and **Zaslow** families: the families of Theodore Rodilitz (born in Brooklyn in 1919) and Doris Zaslow (born in Philadelphia in 1926), who married in Brooklyn in 1948.\n\n## Who made it {#editor}\n\nThe history and this site are compiled by **{EDITOR}**. The site was last updated on {UPDATED}. The text of the history is the {EDITION}; the site and the printed edition are updated separately, and research found since the printed edition is shown on the [Research](../research/index.html) page.\n\n## Corrections and contributions {#corrections}\n\nIf you have a correction, a photograph, a family recollection or a document to add, please [open an issue on the site’s GitHub page]({CORRECTIONS}) (a free GitHub account is needed). Say which page it concerns and, if you can, where the information comes from.\n\n## What is on the site\n\nIts backbone is the text of the family history, also available as a [printable PDF](../downloads/{PDF}). Around it are pages for everyone found in the research, the records behind it, a family tree and a map. Each person’s page starts with a short biography taken from the history; the working research notes behind it are folded away below.\n\n## Conventions {#conventions}\n\n- **Names.** Everyone in these families had a Yiddish or Hebrew name as well as an English one, and clerks spelled the surnames many ways: Rodilitz, Rodlitz, Rodolitz, Rodeletz, Rodelets; Zaslow, Zaslawer, Soslawer, Saslawer; Saslow, Saslaw, Zaslaw. Headings use the form each family used in America.\n- **Zaslow and Saslow** are two different families: Doris’s father was a Zaslow, her mother a Saslow.\n- **Places** are given as the records name them, with today’s name: Kobrin (Kobryn, Belarus), Divin (Dzivin), Kovel (Ukraine), Tulchin (Tulchyn), Obodovka (Obodivka), Soroki (Soroca, Moldova).\n- **Dates.** Russia used the Julian (Old Style) calendar until 1918. Hebrew dates on gravestones follow the Jewish calendar. American records use the modern calendar.\n- **Evidence.** What a record says is kept separate from what is concluded from it. Conclusions are written as conclusions (“probably”, “about 80%”). In the family tree a dashed line means a relationship that is probable but not proven.\n- **Colors.** Brick red marks Theodore’s side (the Rodilitz and Hausman families) and blue Doris’s side (the Zaslow and Saslow families); walnut and ochre belong to the site itself. Family names are always given in words as well.\n- **Codes.** Every source has a permanent code (for example RZ-S01), every person an ID (for example R-010 or Z-011), and every research question an ID (for example RQ-04). The codes match the research files.\n\n## Privacy\n\nPeople born after 1930 who may still be living are named only where the history itself names them, and have no pages of their own. Identity numbers are left out. The research does not record living descendants.\n\n## Credits {#credits}\n\n- **NYC Municipal Archives**, Historical Vital Records: certificates of marriage and death, and marriage licences.\n- **US National Archives**: passenger lists, censuses, naturalization papers and draft registrations, through the Statue of Liberty–Ellis Island Foundation, FamilySearch and Ancestry.\n- **Stadsarchief Rotterdam**: the Holland-America Line passenger registers.\n- **State Archives of Vinnytsia, Khmelnytskyi and Zhytomyr regions**, and the **Central State Archive of Supreme Bodies of Ukraine**: Jewish registers, the 1875 census and revision lists, from the free scans on Wikimedia Commons.\n- **JewishGen**: indexes of Ukrainian records, the Family Finder and the memorial books. **Find a Grave** contributors: photographs of the gravestones, read for the Hebrew inscriptions.\n- Interactive map: © OpenStreetMap contributors; map library Leaflet. Printed maps: Natural Earth.\n- Typefaces: Frank Ruhl Libre, Source Serif 4 and Source Sans 3, all under the SIL Open Font License. The rosette ornament follows those on East European Jewish gravestones and papercuts.\n\nThe archives hold the originals and their rights; please ask them before reusing an image elsewhere.\n\n## How to cite\n\nGive the page title, “The Rodilitz and Zaslow Families, compiled by {EDITOR}”, the address of the page, and the date you consulted it.\n\n## How this site is made\n\nThe pages are generated from the family-history text and the research files by a small script, so that the site can be rebuilt whenever the research moves on. The source is kept on GitHub.",
+ "pdf_redact": [
+  " in Los Angeles on 15 January 1978"
+ ]
+}

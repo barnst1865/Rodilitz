@@ -1,0 +1,654 @@
+{
+ "R-001": {
+  "name": "Theodore Rodilitz",
+  "parents": [
+   "R-010",
+   "H-010"
+  ],
+  "spouses": [
+   "Z-001"
+  ],
+  "probable": false,
+  "bio": "Theodore Rodilitz was born in Brooklyn on 25 April 1919, the son of Morris Rodilitz and Sylvia Hausman, and grew up at 537 Georgia Avenue. When he registered for the draft in 1940 he worked for the Comet Manufacturing Company in Manhattan. He enlisted in the Army in April 1941. In 1948, then in radio production, he took out a marriage licence with Doris Zaslow. By 1968 he and Doris had made their home in Anaheim, California. He died on 11 January 2004, aged 84."
+ },
+ "Z-001": {
+  "name": "Doris Zaslow",
+  "parents": [
+   "Z-010",
+   "Z-011"
+  ],
+  "spouses": [
+   "R-001"
+  ],
+  "probable": false,
+  "bio": "Doris Zaslow was born in Philadelphia, the youngest child of Benjamin Zaslow and Catherine Saslow; the family lived at 2163 East Cambria Street. She lost her mother when she was eleven and her father when she was thirteen. In 1948, a secretary living in Brooklyn Heights, she took out a marriage licence with Theodore Rodilitz. They later made their home in Anaheim, California. She died on 25 February 2007."
+ },
+ "R-010": {
+  "name": "Morris Rodilitz",
+  "parents": [
+   "R-020",
+   "R-021"
+  ],
+  "spouses": [
+   "H-010"
+  ],
+  "probable": false,
+  "bio": "Morris Rodilitz, born Motel on 17 April 1890, was the eldest son of Jacob and Mary Rodilitz. He was the second of the family to cross, landing at Ellis Island from the Breslau on 16 December 1907, aged 18, from Czerniany in Grodno province, where his mother still lived. He married Sivia (Sylvia) Hausman in Brooklyn on 7 November 1915 and was naturalized in 1921. He worked as a salesman, in the novelty trade and as a stock clerk. From about 1925 the family lived at 537 Georgia Avenue. He died on 6 January 1957 and is buried in the family plot at New Montefiore Cemetery."
+ },
+ "H-010": {
+  "name": "Sylvia Hausman (Rodilitz)",
+  "parents": [
+   "H-020",
+   "H-021"
+  ],
+  "spouses": [
+   "R-010"
+  ],
+  "probable": false,
+  "bio": "Sivia (Sylvia) Hausman, born about 1892, gave her birthplace as Grodno, Russia, and later said she came to America in 1910; her crossing has not been found. She was the daughter of Joseph Hausman and Rose Shapiro. She married Morris Rodilitz at 41 Malta Street, Brooklyn, on 7 November 1915, and they had four children, among them Theodore. In 1925 her widowed mother joined them at 537 Georgia Avenue. She died on 14 December 1952 and is buried at New Montefiore Cemetery.",
+  "aka": "Sivia"
+ },
+ "R-011": {
+  "name": "Millie (Mildred) Rodilitz",
+  "parents": [
+   "R-010",
+   "H-010"
+  ],
+  "spouses": [],
+  "probable": false,
+  "bio": "Millie (Mildred), born about 1917, was the eldest child of Morris and Sylvia Rodilitz."
+ },
+ "R-012": {
+  "name": "Blanche Rodilitz",
+  "parents": [
+   "R-010",
+   "H-010"
+  ],
+  "spouses": [],
+  "probable": false,
+  "bio": "Blanche, born about 1927, was the youngest child of Morris and Sylvia Rodilitz."
+ },
+ "R-013": {
+  "name": "Baby Rodilitz (son)",
+  "parents": [
+   "R-010",
+   "H-010"
+  ],
+  "spouses": [],
+  "probable": false,
+  "bio": "Morris and Sylvia’s third child, a son, was born on 6 August 1924 and lived four days. He was buried at Mount Lebanon Cemetery."
+ },
+ "R-020": {
+  "name": "Jacob Rodilitz",
+  "parents": [
+   "R-032"
+  ],
+  "spouses": [
+   "R-021"
+  ],
+  "probable": false,
+  "bio": "Jacob Rodilitz (Yiddish Jankel; Hebrew Yaakov, son of Yonah) was born on 15 March 1871 in Kovel, Volhynia, and was a Hebrew teacher. He went to America first, landing in May 1907, and bought his sons’ tickets one by one in New York. The family settled in East New York, Brooklyn, from about 1919 at 188 Malta Street. He was naturalized in February 1929. He died on 14 or 15 June 1950 and is buried beside his wife at Montefiore Cemetery, under a stone headed RODELETZ.",
+  "aka": "Jankel, Yaakov; Rodeletz"
+ },
+ "R-021": {
+  "name": "Mary (Miriam Reizel) Prozansky (Rodilitz)",
+  "parents": [
+   "R-030",
+   "R-031"
+  ],
+  "spouses": [
+   "R-020"
+  ],
+  "probable": false,
+  "bio": "Mary Rodilitz, called Miriam and Mariam in the records, was born on 25 December 1869, the daughter of Abraham (Avraham) and Ida Prozansky; her gravestone gives her full name, Miriam Reizel. She stayed in Europe with the four youngest children for six and a half years after Jacob left, and was living at Divin in 1909 and 1913. She landed at Ellis Island from the Pretoria on 22 December 1913. She died at 188 Malta Street on 14 April 1934 and is buried at Montefiore Cemetery.",
+  "aka": "Miriam, Mariam, Marya, Rose; Pruzansky, Porojinsky"
+ },
+ "R-030": {
+  "name": "Abraham Prozansky",
+  "parents": [],
+  "spouses": [
+   "R-031"
+  ],
+  "probable": false,
+  "bio": "Abraham Prozansky (Hebrew Avraham), Mary Rodilitz’s father, is named on her death certificate and on her gravestone. His great-grandson Abraham Jonas Rodolitz, born in 1920, was probably named after him, which suggests he had died in Europe by then.",
+  "aka": "Avraham; Porojinsky"
+ },
+ "R-031": {
+  "name": "Ida Prozansky",
+  "parents": [],
+  "spouses": [
+   "R-030"
+  ],
+  "probable": false,
+  "bio": "Ida, Mary Rodilitz’s mother, is named on Mary’s death certificate as Ida Projinsky.",
+  "aka": "Projinsky"
+ },
+ "R-032": {
+  "name": "Yonah Rodilitz",
+  "parents": [],
+  "spouses": [],
+  "probable": false,
+  "bio": "Yonah (Jonah) is known from his son Jacob’s gravestone, “Yaakov son of R. Yonah.” Harry Rodilitz’s first son, born in 1920, was named Abraham Jonas after both of Harry’s grandfathers, so Yonah had probably died in Europe by then.",
+  "aka": "Jonah"
+ },
+ "R-035": {
+  "name": "Moishe Velvel Prozansky (Morris W. Rosen)",
+  "parents": [
+   "R-030"
+  ],
+  "spouses": [],
+  "probable": true,
+  "bio": "Mary Rodilitz’s brother, Moishe Velvel (Moische Wolf) Prozansky, an 18-year-old shoemaker, landed at Ellis Island from Antwerp in August 1909, leaving behind his “sister Marina Rodelitz” of Divin. In Chicago he used the name Morris William Rosen. He served in the US Army from 1915 to 1918 and was naturalized in 1921. In 1928 he entered the veterans’ home at Sawtelle, Los Angeles, naming his sister Mary Rodeletz as his nearest relative. He probably died in Los Angeles in March 1982.",
+  "aka": "Moische Wolf Prozanski; Morris William Rosen"
+ },
+ "R-041": {
+  "name": "Harry Rodilitz",
+  "parents": [
+   "R-020",
+   "R-021"
+  ],
+  "spouses": [
+   "R-051"
+  ],
+  "probable": false,
+  "bio": "Harry (Hersch), born on 20 August 1892, was the second son. A locksmith from Maczew, he landed in New York from the Cleveland on 12 June 1910. He married Fannie Bunder in 1919. He died in 1967 and is buried in the family plot at New Montefiore.",
+  "aka": "Hersch; Radolitz, Rodlitz"
+ },
+ "R-042": {
+  "name": "Meyer Rodilitz",
+  "parents": [
+   "R-020",
+   "R-021"
+  ],
+  "spouses": [
+   "R-052"
+  ],
+  "probable": false,
+  "bio": "Meyer (Meier), born on 5 March 1894 in Kobrin, came from Rotterdam on the Rotterdam in July 1911. He was in Europe at the end of the First World War and returned to New York in November 1919. He married Henrietta Frankel in 1932 and died in 1950.",
+  "aka": "Meier; Rodlitz"
+ },
+ "R-048": {
+  "name": "Benny Rodilitz",
+  "parents": [
+   "R-020",
+   "R-021"
+  ],
+  "spouses": [],
+  "probable": false,
+  "bio": "Benny (Berl), born on 28 April 1896 in Kobrin, came from Rotterdam on the Potsdam in July 1912. Ellis Island held him as a possible public charge (“underdeveloped for 17”) until he was admitted on 5 July.",
+  "aka": "Berl, Benjamin"
+ },
+ "R-043": {
+  "name": "Ida Rodilitz (Hovelin)",
+  "parents": [
+   "R-020",
+   "R-021"
+  ],
+  "spouses": [
+   "R-053"
+  ],
+  "probable": false,
+  "bio": "Ida (Chaje), born on 19 January 1898 by her father’s petition, came with her mother on the Pretoria in 1913. She married Irving Hovelin in 1927.",
+  "aka": "Chaje"
+ },
+ "R-044": {
+  "name": "Esther Rodilitz (Feinberg)",
+  "parents": [
+   "R-020",
+   "R-021"
+  ],
+  "spouses": [
+   "R-054"
+  ],
+  "probable": false,
+  "bio": "Esther, born on 4 March 1900 by her father’s petition, at Brest, came with her mother on the Pretoria in 1913. She married Sol Feinberg in 1927.",
+  "aka": "Essie"
+ },
+ "R-045": {
+  "name": "Louis Rodilitz",
+  "parents": [
+   "R-020",
+   "R-021"
+  ],
+  "spouses": [
+   "R-055"
+  ],
+  "probable": false,
+  "bio": "Louis (Leib), born on 14 August 1905, came with his mother on the Pretoria in 1913. He married Gertrude Kaplan in 1934 and died in 1970.",
+  "aka": "Leib; Rodolitz"
+ },
+ "R-046": {
+  "name": "Sarah Rodilitz (Gordon)",
+  "parents": [
+   "R-020",
+   "R-021"
+  ],
+  "spouses": [
+   "R-056"
+  ],
+  "probable": false,
+  "bio": "Sarah (Sure), the youngest, was born on 6 February 1907 in Kobrin and came with her mother on the Pretoria in 1913. She married Martin Gordon in 1929.",
+  "aka": "Sure"
+ },
+ "R-047": {
+  "name": "Stanley Rodolitz",
+  "parents": [
+   "R-041",
+   "R-051"
+  ],
+  "spouses": [],
+  "probable": false,
+  "bio": "Stanley, a son of Harry and Fannie Rodolitz, was born in Brooklyn in 1927 and died in 1936, aged eight."
+ },
+ "R-049": {
+  "name": "Abraham Jonas Rodolitz",
+  "parents": [
+   "R-041"
+  ],
+  "spouses": [],
+  "probable": false,
+  "bio": "Abraham Jonas, Harry’s first son, was born on 21 May 1920. He was named after both of Harry’s grandfathers, Abraham Prozansky and Yonah Rodilitz; his stone reads “Avraham Yonah son of R. Tzvi Hersh.” He died in 1998."
+ },
+ "R-051": {
+  "name": "Fannie Bunder",
+  "parents": [],
+  "spouses": [
+   "R-041"
+  ],
+  "probable": false,
+  "bio": ""
+ },
+ "R-052": {
+  "name": "Henrietta Frankel",
+  "parents": [],
+  "spouses": [
+   "R-042"
+  ],
+  "probable": false,
+  "bio": ""
+ },
+ "R-053": {
+  "name": "Irving Hovelin",
+  "parents": [],
+  "spouses": [
+   "R-043"
+  ],
+  "probable": false,
+  "bio": ""
+ },
+ "R-054": {
+  "name": "Sol Feinberg",
+  "parents": [],
+  "spouses": [
+   "R-044"
+  ],
+  "probable": false,
+  "bio": ""
+ },
+ "R-055": {
+  "name": "Gertrude Kaplan",
+  "parents": [],
+  "spouses": [
+   "R-045"
+  ],
+  "probable": false,
+  "bio": ""
+ },
+ "R-056": {
+  "name": "Martin Gordon",
+  "parents": [],
+  "spouses": [
+   "R-046"
+  ],
+  "probable": false,
+  "bio": ""
+ },
+ "H-020": {
+  "name": "Joseph Hausman",
+  "parents": [],
+  "spouses": [
+   "H-021"
+  ],
+  "probable": false,
+  "bio": "Joseph Hausman, Sylvia’s father, is named on her marriage certificate. He had died before May 1925, when his widow came to America, probably in Europe or Cuba."
+ },
+ "H-021": {
+  "name": "Rose Shapiro (Hausman)",
+  "parents": [],
+  "spouses": [
+   "H-020"
+  ],
+  "probable": false,
+  "bio": "Rose (Reise, Rejza) Hausman, born Shapiro, was Sylvia’s mother. She very probably came to New York from Havana on the Ebro on 12 May 1925, a widow of 60 born at “Brassc,” probably Brest-Litovsk, and was held for two days before she was admitted. By June 1925 she was living with Morris and Sylvia at 537 Georgia Avenue. She died in the Bronx on 15 November 1932.",
+  "aka": "Reise, Rejza; Sapir"
+ },
+ "H-011": {
+  "name": "Fega Hausman",
+  "parents": [
+   "H-020",
+   "H-021"
+  ],
+  "spouses": [],
+  "probable": false,
+  "bio": "Fega, a daughter of Rose Hausman, was living in Havana at San Ignacio 57 in 1925."
+ },
+ "H-012": {
+  "name": "G. Hausman (Mrs Weisberg)",
+  "parents": [
+   "H-021"
+  ],
+  "spouses": [],
+  "probable": false,
+  "bio": "A daughter of Rose Hausman, recorded as G. Weisberg, of 636 East 135th Street in the Bronx, whom Rose was joining in 1925."
+ },
+ "Z-010": {
+  "name": "Benjamin Zaslow",
+  "parents": [
+   "Z-005",
+   "Z-006"
+  ],
+  "spouses": [
+   "Z-011"
+  ],
+  "probable": true,
+  "bio": "Benjamin Zaslow (Hebrew Dov Ber) was born on 8 January 1885 at “Obodofsky,” Obodovka in Podolia, by his own account. He swore he landed at Philadelphia from Liverpool about 15 March 1904; he was probably the “Berl Saslawer” of the Haverford, and his parents were probably Jacob and Miriam Zaslawer of Brooklyn. In 1910 he married Catherine Saslow in Philadelphia. He became a grocer and kept a fruit store at 2163 East Cambria Street, and was naturalized in 1924. He died on 29 February 1940 and is buried at Har Jehuda.",
+  "aka": "Dov Ber; Berl Saslawer?"
+ },
+ "Z-011": {
+  "name": "Catherine Saslow (Zaslow)",
+  "parents": [
+   "Z-020",
+   "Z-021"
+  ],
+  "spouses": [
+   "Z-010"
+  ],
+  "probable": false,
+  "bio": "Catherine (Katie; Hebrew Beila) Saslow was born in April 1891 in Russia and came to America as Beile, aged one, with her mother and sister on the Circassia in 1893. In 1910, a hosiery worker of about 19, she married Benjamin Zaslow. They had four children, the youngest Doris. She died on 5 September 1937, aged 46, and is buried at Har Jehuda beside her father.",
+  "aka": "Katie; Beila, Beile"
+ },
+ "Z-002": {
+  "name": "Sylvia Zaslow",
+  "parents": [
+   "Z-010",
+   "Z-011"
+  ],
+  "spouses": [],
+  "probable": false,
+  "bio": "Sylvia, the eldest child of Benjamin and Catherine Zaslow, was born on 22 December 1911."
+ },
+ "Z-003": {
+  "name": "Edward Zaslow",
+  "parents": [
+   "Z-010",
+   "Z-011"
+  ],
+  "spouses": [],
+  "probable": false,
+  "bio": "Edward, the second child of Benjamin and Catherine Zaslow, was born on 30 December 1918."
+ },
+ "Z-004": {
+  "name": "Mildred Zaslow",
+  "parents": [
+   "Z-010",
+   "Z-011"
+  ],
+  "spouses": [],
+  "probable": false,
+  "bio": "Mildred, born in December 1923, died aged two months on 16 February 1924 at her grandparents’ house on South Fifth Street."
+ },
+ "Z-005": {
+  "name": "Jacob (Jack) Zaslow",
+  "parents": [
+   "Z-060",
+   "Z-061"
+  ],
+  "spouses": [
+   "Z-006"
+  ],
+  "probable": false,
+  "bio": "Jacob Zaslow, known in America as Jack, was born on 15 May 1855, the son of David Zaslow and Katia Goldberg. With his wife Marjem and daughter Ruchle he landed at Ellis Island from Liverpool on the Umbria on 6 August 1906, from “Podol,” going to a son in Brooklyn. A dry goods merchant, he died at 98 Barrett Street, Brooklyn, on 9 July 1930 and is buried at Montefiore Cemetery.",
+  "aka": "Jankel Soslawer, Zaslawer"
+ },
+ "Z-006": {
+  "name": "Miriam Lesnoff (Zaslow)",
+  "parents": [
+   "Z-007",
+   "Z-008"
+  ],
+  "spouses": [
+   "Z-005"
+  ],
+  "probable": false,
+  "bio": "Miriam (Marjem, Mary) Zaslow, née Lesnoff, daughter of Herman and Rose Lesnoff, came with her husband Jacob on the Umbria in 1906. In 1910 she had had nine children, seven of them living. She died in Brooklyn on 14 September 1931 after a fall and is buried beside Jacob at Montefiore Cemetery.",
+  "aka": "Marjem, Mary"
+ },
+ "Z-007": {
+  "name": "Herman Lesnoff",
+  "parents": [],
+  "spouses": [
+   "Z-008"
+  ],
+  "probable": false,
+  "bio": ""
+ },
+ "Z-008": {
+  "name": "Rose Lesnoff",
+  "parents": [],
+  "spouses": [
+   "Z-007"
+  ],
+  "probable": false,
+  "bio": ""
+ },
+ "Z-016": {
+  "name": "Itzik (Ike) Zaslow",
+  "parents": [
+   "Z-005",
+   "Z-006"
+  ],
+  "spouses": [
+   "Z-065"
+  ],
+  "probable": false,
+  "bio": "Itzik, who became Ike Zaslow, was born about 1876. He was probably the eldest of the three Saslawer brothers on the Haverford in 1904. A presser of cloaks in Brooklyn, he helped found the Bershider society in 1922 and is buried in its plot at Montefiore Cemetery. He died on 14 April 1940; his death certificate names his parents as Jacob Zaslow and Miriam Lesnov.",
+  "aka": "Isaac; Zaslawer, Saslawer"
+ },
+ "Z-017": {
+  "name": "Herman (Hyman) Zaslow",
+  "parents": [
+   "Z-005",
+   "Z-006"
+  ],
+  "spouses": [],
+  "probable": false,
+  "bio": "Herman (Hyman) Zaslow was born on 15 September 1886 and gave his birthplace as “Obodonka” on his 1942 draft card. He came in 1904 and lived with his parents in Brooklyn in 1910. He died in New York in 1958."
+ },
+ "Z-018": {
+  "name": "Ruchle (Rachel) Zaslawer",
+  "parents": [
+   "Z-005",
+   "Z-006"
+  ],
+  "spouses": [],
+  "probable": true,
+  "bio": "Ruchle, 17, came with Jankel and Marjem Soslawer on the Umbria in 1906, probably their daughter."
+ },
+ "Z-019": {
+  "name": "David Saslawer",
+  "parents": [],
+  "spouses": [],
+  "probable": false,
+  "bio": "David, 19, a tailor, was the youngest of the three Saslawer “brothers” on the Haverford in March 1904. He has not been identified.",
+  "group": "unplaced"
+ },
+ "Z-060": {
+  "name": "David Zaslow",
+  "parents": [],
+  "spouses": [
+   "Z-061"
+  ],
+  "probable": false,
+  "bio": "David Zaslow, Jacob (Jack) Zaslow’s father, is named on Jack’s death certificate."
+ },
+ "Z-061": {
+  "name": "Katia Goldberg",
+  "parents": [],
+  "spouses": [
+   "Z-060"
+  ],
+  "probable": false,
+  "bio": ""
+ },
+ "Z-062": {
+  "name": "Harry (Hirsch) Lesnoff",
+  "parents": [],
+  "spouses": [],
+  "probable": false,
+  "bio": "Harry Lesnoff, a painter who came in 1904 and lived near the Zaslawers in 1910, was probably the “H. Lesnoff” the family went to in 1906: perhaps Miriam’s brother or nephew.",
+  "group": "unplaced"
+ },
+ "Z-063": {
+  "name": "David Lesnoff",
+  "parents": [],
+  "spouses": [],
+  "probable": false,
+  "bio": "",
+  "group": "unplaced"
+ },
+ "Z-064": {
+  "name": "Meyer Zaslow",
+  "parents": [
+   "Z-016"
+  ],
+  "spouses": [],
+  "probable": false,
+  "bio": ""
+ },
+ "Z-065": {
+  "name": "Anna Komis (Zaslawer)",
+  "parents": [],
+  "spouses": [
+   "Z-016"
+  ],
+  "probable": false,
+  "bio": ""
+ },
+ "Z-020": {
+  "name": "Benjamin Saslow",
+  "parents": [
+   "Z-040"
+  ],
+  "spouses": [
+   "Z-021"
+  ],
+  "probable": false,
+  "bio": "Benjamin Saslow, Hebrew Dov son of David, was born in June 1865 and reached America in 1892. A paperhanger with his own business, he lived in South Philadelphia, from about 1920 in his own house at 2208 South Fifth Street. He was naturalized in 1902. He died on 19 July 1937 and is buried at Har Jehuda in the plot of a Tulchiner society.",
+  "aka": "Dov"
+ },
+ "Z-021": {
+  "name": "Bessie Weiss (Saslow)",
+  "parents": [
+   "Z-031",
+   "Z-030"
+  ],
+  "spouses": [
+   "Z-020"
+  ],
+  "probable": false,
+  "bio": "Bessie (Basche; Hebrew Batya), born in March 1867, was the daughter of Harry (Aharon) Weiss and Molly Gold. A year after her husband, she left Hamburg in June 1893 with her daughters Jety and Beile, crossed from Glasgow on the Circassia, and landed at Ellis Island on 3 July 1893. In 1901 she was a grocer. She died on 8 May 1936 at her daughter Catherine’s house and is buried at Har Jehuda.",
+  "aka": "Basche; Batya"
+ },
+ "Z-012": {
+  "name": "Beckie Saslow (Mitchell)",
+  "parents": [
+   "Z-020",
+   "Z-021"
+  ],
+  "spouses": [],
+  "probable": false,
+  "bio": "Beckie (Jety), born in December 1889 in Russia, came with her mother on the Circassia in 1893. She married David Mitchell and died on 26 August 1914, aged 25.",
+  "aka": "Jety"
+ },
+ "Z-013": {
+  "name": "Louis Saslow",
+  "parents": [
+   "Z-020",
+   "Z-021"
+  ],
+  "spouses": [],
+  "probable": false,
+  "bio": "Louis, born in Philadelphia in 1893 or 1895, was the Saslows’ first child born in America. He died in 1965."
+ },
+ "Z-014": {
+  "name": "Herman Saslow",
+  "parents": [
+   "Z-020",
+   "Z-021"
+  ],
+  "spouses": [],
+  "probable": false,
+  "bio": "Herman was born in Philadelphia in November 1896."
+ },
+ "Z-015": {
+  "name": "Mollie Saslow",
+  "parents": [
+   "Z-020",
+   "Z-021"
+  ],
+  "spouses": [],
+  "probable": false,
+  "bio": "Mollie was born in Philadelphia in April 1899."
+ },
+ "Z-022": {
+  "name": "Leib Zaslaw",
+  "parents": [],
+  "spouses": [],
+  "probable": false,
+  "bio": "Leib Zaslaw, 30, a printer who could read and write, travelled with Basche, Jety and Beile in 1893. He was probably a relative escorting the family, not Bessie’s husband.",
+  "group": "unplaced"
+ },
+ "Z-030": {
+  "name": "Molly Gold",
+  "parents": [],
+  "spouses": [
+   "Z-031"
+  ],
+  "probable": false,
+  "bio": "Molly Gold, Bessie Saslow’s mother, is named on Bessie’s death certificate."
+ },
+ "Z-031": {
+  "name": "Harry (Aharon) Weiss",
+  "parents": [],
+  "spouses": [
+   "Z-030"
+  ],
+  "probable": false,
+  "bio": "Harry (Hebrew Aharon) Weiss, Bessie Saslow’s father, is named on her death certificate; her gravestone reads “Batya daughter of R. Aharon.”"
+ },
+ "Z-040": {
+  "name": "David Saslow",
+  "parents": [],
+  "spouses": [],
+  "probable": false,
+  "bio": "David is known from his son Benjamin Saslow’s gravestone, “Dov son of R. David.” He was probably the Duvid Berkovich Zaslava, aged 46, recorded in Tulchin in the 1875 census, registered in the town of Soroki in Bessarabia, with his sons Berko, 12, and Avrum, 3. That identification is new research, not yet in the printed history."
+ },
+ "Z-066": {
+  "name": "Bluma Zaslaver (Vaisman)",
+  "parents": [
+   "Z-040"
+  ],
+  "spouses": [],
+  "probable": true,
+  "bio": "Bluma, 22, daughter of Duvid Zaslaver, married Itsko Yankelevich Vaisman, a Tulchin townsman, in Tulchin on 10 August 1888. She may have been Benjamin Saslow’s sister. This is new research, not yet in the printed history."
+ },
+ "Z-068": {
+  "name": "Avrum Zaslav",
+  "parents": [
+   "Z-040"
+  ],
+  "spouses": [],
+  "probable": true,
+  "bio": "Avrum, son of Duvid Zaslav, died in Tulchin on 2 March 1880, aged seven. He was probably the Avrum, 3, listed with Duvid and Berko in the 1875 census, and so probably Benjamin Saslow’s younger brother."
+ }
+}
