@@ -1,15 +1,15 @@
 {
  "research_dir": "Rodilitz-Zaslow Research",
- "master_text": "Rodilitz-Zaslow Research/PDF build/Rodilitz_Zaslow_Family_History_v3_text.md",
- "pdf_source": "Rodilitz-Zaslow Research/PDF build/Rodilitz_Zaslow_Family_History_v3.pdf",
+ "master_text": "Rodilitz-Zaslow Research/PDF build/Rodilitz_Zaslow_Family_History_v4_text.md",
+ "pdf_source": "Rodilitz-Zaslow Research/PDF build/Rodilitz_Zaslow_Family_History_v4.pdf",
  "pdf_download": "Rodilitz_Zaslow_Family_History.pdf",
  "image_dir": "Rodilitz-Zaslow Research/PDF build/img",
- "edition": "Third edition · November 2026",
+ "edition": "Fourth edition · November 2026",
  "allow_crawlers": false,
  "cname": "rodilitz.dckoiks.com",
  "base_path": "/Rodilitz/",
  "editor": "the Koik family",
- "site_updated": "9 November 2026",
+ "site_updated": "10 November 2026",
  "corrections_url": "https://github.com/barnst1865/Rodilitz/issues",
  "site_description": "The families of Theodore Rodilitz and Doris Zaslow, from Grodno, Volhynia and Podolia to Brooklyn and Philadelphia: a family history with records, a family tree and maps.",
  "privacy_birth_year": 1930,
@@ -69,7 +69,12 @@
    "Louis": "Z-013",
    "Herman": "Z-014",
    "Mollie": "Z-015",
-   "Avrum Zaslav, son of Duvid": "Z-068"
+   "Khasya Dvoyra Nemirovskaya": "Z-070",
+   "Khaya Sima": "Z-073",
+   "Tsipa": "Z-074",
+   "Avrum": "Z-068",
+   "Aron": "Z-071",
+   "Duvid Berkovich Zaslava": "Z-040"
   },
   "zaslow": {
    "Benjamin Zaslow": "Z-010",
@@ -222,7 +227,7 @@
    "RQ-06",
    "Which towns in Europe did each line come from?",
    "Partly answered",
-   "Rodilitz: Kovel (Jacob’s birthplace), probably Maciejów, then Czerniany, Kobrin, Brest and Divin. Hausman: Grodno province, probably Brest. Zaslow: Obodovka in Podolia. Saslow: Tulchin by 1875, registered in Soroki, Bessarabia, and probably earlier at the Dombroveny colony near Soroki.",
+   "Rodilitz: Kovel (Jacob’s birthplace), probably Maciejów, then Czerniany, Kobrin, Brest and Divin. Hausman: Grodno province, probably Brest. Zaslow: Obodovka in Podolia. Saslow: Tulchin, where Benjamin was born in 1863; registered in Soroki and as colonists of Dombroveny, Bessarabia.",
    [
     "R-020",
     "H-021",
@@ -324,20 +329,12 @@
    []
   ]
  ],
- "since_edition": [
-  [
-   "Kovel in 1858",
-   "The Kovel district revision lists of 1858 have been located. The volume on Wikimedia Commons lists peasants only; the volumes likely to include Kovel’s Jews, and so perhaps a young Yonah Rodilitz, are on FamilySearch and are next to be searched.",
-   [
-    "R-032",
-    "R-020"
-   ],
-   [
-    "RZ-S101"
-   ]
-  ]
- ],
+ "since_edition": [],
  "site_changes": [
+  [
+   "10 November 2026",
+   "Rebuilt from the fourth edition: Benjamin Saslow’s birth in Tulchin in 1863, his parents David Zaslaver and Khasya Nemirovskaya and their 1847 marriage, his son Aron (1887), and the Dombroveny colony. Five people added."
+  ],
   [
    "9 November 2026 (evening)",
    "Rebuilt from the third edition of the history: the Saslows in Tulchin in 1875, Soroki and Dombroveny, Bluma’s marriage, and Obodovka’s records. Soroki added to the maps."

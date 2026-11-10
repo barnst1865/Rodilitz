@@ -543,8 +543,8 @@
    "Z-021"
   ],
   "probable": false,
-  "bio": "Benjamin Saslow, Hebrew Dov son of David, was born in June 1865 and reached America in 1892. A paperhanger with his own business, he lived in South Philadelphia, from about 1920 in his own house at 2208 South Fifth Street. He was naturalized in 1902. He died on 19 July 1937 and is buried at Har Jehuda in the plot of a Tulchiner society.",
-  "aka": "Dov"
+  "bio": "Benjamin Saslow, Hebrew Dov son of David, was born Ber Zaslaver in Tulchin, Podolia, on 20 March 1863, the son of Duvid Zaslaver and Khasya Nemirovskaya (in America he gave June 1865). He and his wife Basya (Bessie) had a son Aron in Tulchin in July 1887, who died at two months. He reached America in 1892. A paperhanger with his own business, he lived in South Philadelphia, from about 1920 in his own house at 2208 South Fifth Street. He was naturalized in 1902. He died on 19 July 1937 and is buried at Har Jehuda in the plot of a Tulchiner society.",
+  "aka": "Dov; Ber Zaslaver"
  },
  "Z-021": {
   "name": "Bessie Weiss (Saslow)",
@@ -627,29 +627,86 @@
   "bio": "Harry (Hebrew Aharon) Weiss, Bessie Saslow’s father, is named on her death certificate; her gravestone reads “Batya daughter of R. Aharon.”"
  },
  "Z-040": {
-  "name": "David Saslow",
-  "parents": [],
-  "spouses": [],
+  "name": "David (Duvid) Zaslaver",
+  "parents": [
+   "Z-072"
+  ],
+  "spouses": [
+   "Z-070"
+  ],
   "probable": false,
-  "bio": "David is known from his son Benjamin Saslow’s gravestone, “Dov son of R. David.” He was very probably Duvid Berkovich Zaslava (Zaslaver), son of Berko, born about 1829, a townsman of Soroki in Bessarabia, who was living in Tulchin in 1875 with his sons Berko, 12, and Avrum, 3. Soroki kept its own copy of that census entry. His family was probably connected with the Jewish farming colony of Dombroveny, near Soroki, founded in 1836 by settlers from Podolia.",
-  "aka": "Duvid Zaslaver (Zaslava)"
+  "bio": "Duvid, son of Berko Zaslaver, born about 1829, married Khasya Dvoyra Nemirovskaya in Tulchin on 14 January 1847, when he was 18 and she 17. Their children included Khaya Sima (1859), Ber (Benjamin Saslow, 1863), Bluma (about 1866), Tsipa (1869) and Avrum (1871). In the 1875 Jewish census he was living in Tulchin, a townsman of Soroki in Bessarabia, with his sons Berko, 12, and Avrum, 3; Soroki kept its own copy of the entry. The family was also registered as colonists of Dombroveny, a Jewish farming colony near Soroki founded in 1836 by settlers from Podolia. Benjamin Saslow’s gravestone calls him “Dov son of R. David.”",
+  "aka": "David Saslow; Duvid Zaslava"
  },
  "Z-066": {
   "name": "Bluma Zaslaver (Vaisman)",
   "parents": [
-   "Z-040"
+   "Z-040",
+   "Z-070"
   ],
   "spouses": [],
-  "probable": true,
-  "bio": "Bluma, 22, daughter of Duvid Zaslaver, “from Dobroven,” married Itsko Yankelevich Vaisman (Weissman), a Tulchin townsman and army reservist, in Tulchin on 10 August 1888. Dobroven is almost certainly Dombroveny, the Jewish farming colony near Soroki. She was very probably Benjamin Saslow’s sister."
+  "probable": false,
+  "bio": "Bluma, 22, daughter of Duvid Zaslaver, “from Dobroven” (Dombroveny, the Jewish farming colony near Soroki), married Itsko Yankelevich Vaisman (Weissman), a Tulchin townsman and army reservist, in Tulchin on 10 August 1888. Their son Yankel was born there on 2 December 1889. She was Benjamin Saslow’s sister."
  },
  "Z-068": {
-  "name": "Avrum Zaslav",
+  "name": "Avrum Zaslaver",
   "parents": [
-   "Z-040"
+   "Z-040",
+   "Z-070"
   ],
   "spouses": [],
-  "probable": true,
-  "bio": "Avrum, son of Duvid Zaslav, died in Tulchin on 2 March 1880, aged seven. He was probably the Avrum, 3, listed with Duvid and Berko in the 1875 census, and so probably Benjamin Saslow’s younger brother."
+  "probable": false,
+  "bio": "Avrum, son of Duvid and Khasya Zaslaver, was born in Tulchin on 3 September 1871, was listed aged 3 with his father and brother Berko in the 1875 census, and died in Tulchin on 2 March 1880. He was Benjamin Saslow’s younger brother."
+ },
+ "Z-070": {
+  "name": "Khasya Dvoyra Nemirovskaya (Zaslaver)",
+  "parents": [],
+  "spouses": [
+   "Z-040"
+  ],
+  "probable": false,
+  "bio": "Khasya Dvoyra, daughter of Duvid Nemirovsky, married Duvid Zaslaver in Tulchin on 14 January 1847, aged 17. She was the mother of Ber (Benjamin Saslow), born in 1863, and of at least four other children recorded in Tulchin between 1859 and 1871.",
+  "group": "saslow"
+ },
+ "Z-072": {
+  "name": "Berko Zaslaver",
+  "parents": [],
+  "spouses": [],
+  "probable": false,
+  "bio": "Berko (Ber) Zaslaver is known as the father of Duvid, from Duvid’s marriage in 1847 and from the 1875 census, where Duvid is “son of Berko.” Duvid’s son Ber, born in 1863, was probably named for him, so he had probably died by then. He was Benjamin Saslow’s grandfather.",
+  "group": "saslow"
+ },
+ "Z-073": {
+  "name": "Khaya Sima Zaslaver",
+  "parents": [
+   "Z-040",
+   "Z-070"
+  ],
+  "spouses": [],
+  "probable": false,
+  "bio": "Khaya Sima, daughter of Duvid and Khasya Zaslaver, was born in Tulchin on 13 February 1859. She was Benjamin Saslow’s elder sister.",
+  "group": "saslow"
+ },
+ "Z-074": {
+  "name": "Tsipa Zaslaver",
+  "parents": [
+   "Z-040",
+   "Z-070"
+  ],
+  "spouses": [],
+  "probable": false,
+  "bio": "Tsipa, daughter of Duvid and Khasya Zaslaver, was born in Tulchin on 15 January 1869. She was Benjamin Saslow’s younger sister.",
+  "group": "saslow"
+ },
+ "Z-071": {
+  "name": "Aron Zaslaver",
+  "parents": [
+   "Z-020",
+   "Z-021"
+  ],
+  "spouses": [],
+  "probable": false,
+  "bio": "Aron, son of Ber (son of Duvid) Zaslaver and Basya, was born in Tulchin on 26 July 1887 and died there of convulsions on 3 September 1887, aged two months, recorded as a colonist of Dombroveny, Soroki district. He was very probably the first child of Benjamin and Bessie Saslow, named for Bessie’s father Aharon.",
+  "group": "saslow"
  }
 }

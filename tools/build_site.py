@@ -795,7 +795,7 @@ def build_research():
     body = (head_block("Research", "Research in progress", "What has been established, what is new since the printed edition, and what is still open.")
             + f'<div class="prose">{md(CFG["research_intro"])}</div>'
             + f'<h2 class="sec" id="since">Since the printed edition</h2><div class="prose"><p class="small">Found after the {H(EDITION_PHRASE)} was printed; '
-              'these will be added to the next edition of the history.</p></div>' + "".join(since)
+              'these will be added to the next edition of the history.</p></div>' + ("".join(since) if since else '<div class="prose"><p>Nothing yet: everything found so far is in the current edition.</p></div>')
             + f'<h2 class="sec" id="questions">The research questions</h2><p class="small">{len(CFG["questions"])} questions: {stats}. '
               'Select a question to see what has been found.</p>'
             + f'<section class="pgroup sh"><ul class="qlist big">{"".join(items)}</ul></section>'
